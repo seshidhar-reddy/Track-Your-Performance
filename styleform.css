@@ -1,0 +1,20 @@
+body{
+    padding : 2%;
+}
+header,h1{
+
+    padding: 1.25% 1% ;
+    text-align: center;
+    border-radius: 10px;
+}
+header h1,h1{
+    color: burlywood;
+    font-family: 'Permanent Marker', cursive;
+}
+.flexx{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+
